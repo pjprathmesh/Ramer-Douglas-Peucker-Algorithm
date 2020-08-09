@@ -11,4 +11,4 @@ For more detail visit [Link](https://en.wikipedia.org/wiki/Ramer%E2%80%93Douglas
 ![Image](/Statics/input.jpg)
 
 # Output
-![Image](/Statics/output.jpg)
+![Image](/Statics/out.jpg)
